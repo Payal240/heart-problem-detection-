@@ -1,0 +1,9 @@
+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+joblib
+python -c "import numpy, pandas, sklearn, matplotlib, seaborn, streamlit, joblib; print('All libraries installed successfully!')"
